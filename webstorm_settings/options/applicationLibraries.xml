@@ -1,0 +1,26 @@
+<application>
+  <component name="libraryTable">
+    <library name="jquery.nanogallery2" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_nanogallery2@2.4.1_dist_jquery.nanogallery2.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_nanogallery2@2.4.1_dist_jquery.nanogallery2.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="widget" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ikuwow.github.io_yourcontributions_widget.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ikuwow.github.io_yourcontributions_widget.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>

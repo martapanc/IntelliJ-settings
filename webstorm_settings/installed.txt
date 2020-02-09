@@ -1,0 +1,6 @@
+HtmlEntity
+com.github.beansoftapp.reatnative.idea
+com.xcodersteam.idea.plugins.mkupscss
+izhangzhihao.rainbow.brackets
+mobi.hsz.idea.gitignore
+oorg.bvic23.intellij.plugin.storybook.Storybook
