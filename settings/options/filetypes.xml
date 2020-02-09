@@ -1,0 +1,25 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="fight3" type="PLAIN_TEXT" />
+      <mapping pattern="fight1" type="PLAIN_TEXT" />
+      <mapping pattern="input6" type="PLAIN_TEXT" />
+      <mapping pattern="input5" type="PLAIN_TEXT" />
+      <mapping pattern="input4" type="PLAIN_TEXT" />
+      <mapping pattern="input2" type="PLAIN_TEXT" />
+      <mapping pattern="input1" type="PLAIN_TEXT" />
+      <mapping pattern="input0" type="PLAIN_TEXT" />
+      <mapping pattern="fight2" type="PLAIN_TEXT" />
+      <mapping pattern="input28" type="PLAIN_TEXT" />
+      <mapping pattern="input_progress" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="input_attackFirst" type="PLAIN_TEXT" />
+      <mapping pattern="input3" type="PLAIN_TEXT" />
+      <mapping pattern="input" type="PLAIN_TEXT" />
+      <removed_mapping pattern="css" approved="true" type="CSS" />
+      <removed_mapping pattern="css]" approved="true" type="CSS" />
+      <removed_mapping ext="css" approved="true" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
